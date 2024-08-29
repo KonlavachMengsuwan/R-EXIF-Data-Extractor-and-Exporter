@@ -114,7 +114,7 @@ cat("All folders have been processed and files exported to", output_dir)
 ## Script Setup
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/yourusername/exif-data-extractor.git
+git clone https://github.com/yourusername/r-exif-data-extractor.git
 ```
 
 2. Open the exif_data_extractor.R script in RStudio or any R environment.
